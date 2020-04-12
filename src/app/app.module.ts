@@ -32,6 +32,6 @@ import { HelloComponent } from './hello.component';
 
   
   declarations: [ AppComponent, HelloComponent ],
-  bootstrap:    [ AppComponent ]
+  bootstrap:    [ HelloComponent ]
 })
 export class AppModule { }
