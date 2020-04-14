@@ -7,5 +7,5 @@ import { Component, Input } from '@angular/core';
 })
 export class HelloComponent  {
   @Input() name: string;
-  name = "Word";
+
 }
