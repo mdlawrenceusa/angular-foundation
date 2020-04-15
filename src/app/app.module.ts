@@ -27,7 +27,7 @@ import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
 
 @NgModule({
-  imports:      [ BrowserModule, FormsModule, AlertModule.forRoot(), OffcanvasModule, CarouselModule.forRoot(), AccordionModule.forRoot() ],
+  imports:      [ BrowserModule, FormsModule, AlertModule.forRoot(), OffcanvasModule, CarouselModule.forRoot(), AccordionModule.forRoot(), BsDatepickerModule.forRoot() ],
 
 
   
